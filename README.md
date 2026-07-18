@@ -24,4 +24,5 @@ An interactive Power BI dashboard built using the Superstore dataset to analyze 
 
 ## Dashboard Preview
 
-![Dashboard](sales_and_analysis_dashboard.jpg)
+![Dashboard](sales and analysis_dashboard.jpg)
+
